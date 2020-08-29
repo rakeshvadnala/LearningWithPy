@@ -1,4 +1,4 @@
-#rakesh-ranadheer-amudala
+#rakesh,ranadheer
 import getpass 
 counter=0
 maxtry=3 
